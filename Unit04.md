@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH303 - Art of the Islamic World"
+course: ARTH303
+course_fulltitle: "Art of the Islamic World"
+course_description: "Introductory survey of the pre-modern Islamic artistic and architectural traditions of the Islamic dynasties in the Mediterranean, Near East, and Central and South Asia."
+---
 **Unit 4: Art and Architecture of the Ilkhanid (1256-1353) and Timurid
 (c.1370-1507) Dynasties** <span id="4"></span> 
 *This unit examines the art and architecture of two Islamic dynasties

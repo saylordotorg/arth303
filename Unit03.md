@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH303 - Art of the Islamic World"
+course: ARTH303
+course_fulltitle: "Art of the Islamic World"
+course_description: "Introductory survey of the pre-modern Islamic artistic and architectural traditions of the Islamic dynasties in the Mediterranean, Near East, and Central and South Asia."
+---
 **Unit 3: Art and Architecture of the Fatimid (909-1171), Ayyubid
 (1171-1250), and Mamluk (1250-1517) Dynasties** <span id="3"></span> 
 *This unit focuses on the art and architecture of three successive

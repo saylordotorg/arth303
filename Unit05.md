@@ -1,3 +1,10 @@
+---
+layout: default
+title: "ARTH303 - Art of the Islamic World"
+course: ARTH303
+course_fulltitle: "Art of the Islamic World"
+course_description: "Introductory survey of the pre-modern Islamic artistic and architectural traditions of the Islamic dynasties in the Mediterranean, Near East, and Central and South Asia."
+---
 **Unit 5: The Art and Architecture of the Safavid (1501-1722), Ottoman
 (ca. 1299–1922), and Mughal (1526-1858) Empires** <span id="5"></span> 
 *This unit focuses on the art and architecture of three later Islamic
