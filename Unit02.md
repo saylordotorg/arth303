@@ -1,9 +1,10 @@
 ---
 layout: default
-title: "ARTH303 - Art of the Islamic World"
-course: ARTH303
-course_fulltitle: "Art of the Islamic World"
-course_description: "Introductory survey of the pre-modern Islamic artistic and architectural traditions of the Islamic dynasties in the Mediterranean, Near East, and Central and South Asia."
+title: "ARTH303: Art of the Islamic World"
+course_description: "An introductory survey of the pre-modern Islamic artistic and architectural traditions of the Islamic dynasties in the Mediterranean, Near East, and Central and South Asia."
+next: ../Unit03
+previous: ../Unit01
+bgimage: arth303.jpg
 ---
 **Unit 2: The Abbasid (750-1258) and Seljuk (C. 1040-1157) Dynasties and
 Islamic Art and Architecture in the Maghrib** <span id="2"></span> 
