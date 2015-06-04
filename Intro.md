@@ -115,4 +115,11 @@ history vocabulary, materials, and techniques.  This knowledge, combined
 with the more specific vocabulary covered in this course, will be useful
 when discussing the art and architecture of the Islamic World.
 
+**Table of Contents:** You can find the course's units at the links below.
 
+- [Unit 1](https://legacy.saylor.org/arth303/Unit01/)
+- [Unit 2](https://legacy.saylor.org/arth303/Unit02/)
+- [Unit 3](https://legacy.saylor.org/arth303/Unit03/)
+- [Unit 4](https://legacy.saylor.org/arth303/Unit04/)
+- [Unit 5](https://legacy.saylor.org/arth303/Unit05/)
+- [Unit 6](https://legacy.saylor.org/arth303/Unit06/)
