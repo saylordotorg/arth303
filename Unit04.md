@@ -242,7 +242,7 @@ id="4.4"></span> 
 -   **Reading: MIT Open Courseware: Nasser Rabbat's “Religious
     Architecture of the Timurids”**
     MIT Open Courseware: Nasser Rabbat's [“Religious Architecture of the
-    Timurids”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH303_4.4.1.1_Religious-Architecture-of-the-Timurids.pdf)
+    Timurids”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH303_4.4.1.1_Religious-Architecture-of-the-Timurids.pdf)
     (PDF)  
       
      Instructions: Please reade the brief introduction and click on the

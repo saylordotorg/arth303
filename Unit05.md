@@ -94,7 +94,7 @@ Upon successful completion of this unit, the student will be able to:
     the Sunni Revival, and the Four-Iwan Plan”**
     Link: MIT Open Courseware: Nasser Rabbat’s [“The Great Seljuqs, the
     Sunni Revival, and the Four-Iwan
-    Plan”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH303_5.1_The-Great-Seljuqs.pdf)
+    Plan”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH303_5.1_The-Great-Seljuqs.pdf)
     (PDF)  
       
      Instructions: Please read the brief introduction and click on the
@@ -451,7 +451,7 @@ Carpets** <span id="5.4"></span> 
 
 -   **Reading: Writing Travellers’s “Fatehpur Sikri”**
     Link: Writing Travellers’s [“Fatehpur
-    Sikri”](https://resources.saylor.org/archived/wp-content/uploads/2013/03/ARTH303_5.6.2_Fatehpur-Sikri.pdf)
+    Sikri”](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2013/03/ARTH303_5.6.2_Fatehpur-Sikri.pdf)
     (PDF)  
       
      Instructions: Read the entirety of the text on this page.  Please
